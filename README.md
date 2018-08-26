@@ -40,3 +40,9 @@ instructions in the orca README at https://github.com/plotly/orca.
 Launch the Jupyter Notebook, and browse to the notebooks in the `notebooks/`
 directory.  Start with "StaticImageGeneration.ipynb", have fun, and let
 us know how it goes!
+
+# Try it out with binder
+You can try out these notebooks without installing anything, right in your
+browser, using the amazing binder project:
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jonmmease/plotly_orca_notebooks/master)
