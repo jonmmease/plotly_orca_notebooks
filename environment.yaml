@@ -1,0 +1,10 @@
+name: plotly_conda37
+channels:
+  - plotly
+dependencies:
+  - plotly >=3.2.0a2
+  - plotly-orca >=1.1.0
+  - poppler
+  - psutil
+  - ipywidgets >=7.2
+  - numpy
