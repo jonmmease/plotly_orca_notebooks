@@ -35,14 +35,3 @@ pip install "plotly >=3.2.0a2" "ipywidgets >=7.2" "notebook>=5.3" psutil numpy
 
 Then install orca (and poppler if you want EPS support) according to the
 instructions in the orca README at https://github.com/plotly/orca.
-
-# Try it out
-Launch the Jupyter Notebook, and browse to the notebooks in the `notebooks/`
-directory.  Start with "StaticImageGeneration.ipynb", have fun, and let
-us know how it goes!
-
-# Try it out with binder
-You can try out these notebooks without installing anything, right in your
-browser, using the amazing binder project:
-
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jonmmease/plotly_orca_notebooks/master)
