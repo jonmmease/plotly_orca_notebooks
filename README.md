@@ -30,7 +30,7 @@ without poppler.
 First, use pip to install the necessary Python dependencies:
 
 ```
-pip install "plotly >=3.2.0a2" "ipywidgets >=7.2" "notebook>=5.3" psutil numpy 
+pip install "plotly>=3.2.0rc1" "ipywidgets>=7.2" "notebook>=5.3" psutil numpy 
 ```
 
 Then install orca (and poppler if you want EPS support) according to the

@@ -1,9 +1,10 @@
 name: plotly_conda37
 channels:
   - plotly
+  - plotly/label/test
 dependencies:
   - python=3.7
-  - plotly >=3.2.0a2
+  - plotly >=3.2.0rc1
   - plotly-orca >=1.1.0
   - poppler
   - psutil
